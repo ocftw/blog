@@ -33,7 +33,7 @@ default_layout: post
 titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
-render_drafts: true
+render_drafts: false
 post_asset_folder: true
 relative_link: false
 future: true
@@ -73,14 +73,11 @@ markdown:
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: tranquilpeak
-sidebar_behavior: 1
-clear_reading: false
-read_more_message: XXX
-
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:ocftw/blog
+  branch: gh-pages
   message: 'regen'
