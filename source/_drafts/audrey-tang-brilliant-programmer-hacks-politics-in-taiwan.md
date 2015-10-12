@@ -195,11 +195,11 @@ In these debates (filmed, transmitted, transcribed ...), Tang is moderator ("As 
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="//speakerdeck.com/player/dba245d1d91c4f48ad287707a813fdf0?slide=57" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; margin: 0px; padding: 0px; border-radius: 5px; width: 420px; height: 377px; background: transparent;"></iframe>
 
-To encourage debate on other complex issues related to digital (Uber, Airbnb, Bitcoin), she has also helped desiging a platform for debate:
+To encourage debate on other complex issues related to digital (Uber, Airbnb, Bitcoin), she has also helped designing a platform for debate:
 
 > "This is a platform to explore issues and find solutions, to say" yes "or" no "to proposals already made. "
 
-The idea of the platform is to allow constructive debate. All design decisions of the platform aredesigned to facilitate inclusion in the discussion - which is for example, to make all the discussions easily accessible and contextualized:
+The idea of the platform is to allow constructive debate. All design decisions of the platform are designed to facilitate inclusion in the discussion - which is for example, to make all the discussions easily accessible and contextualized:
 
 > "The centralization of power does not come from its concentration in one place, but because the latest arrived are less familiar with the context than those who make the laws. We try to bridge this process: in two hours, anyone interested can understand the whole context of the discussion. "
 
