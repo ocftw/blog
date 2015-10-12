@@ -14,13 +14,13 @@ tags:
 
 {% image fig-25 right http://rue89.nouvelobs.com/sites/news/files/assets/image/2015/09/audrey_tang_0.jpg "Audrey Tang (Isis Kang/CC BY-NC-ND)" %}
 
-She has a sweet voice, oval face and black hair gathered at the back of her neck. When she enters the "coworking" space where we rendez-vous, she takes off her sandals and settles in the lotus position on a chair.
+She has a sweet voice, oval face and black hair gathered at the back of her neck. When she enters the "coworking" space where we rendezvous, she takes off her sandals and settles in the lotus position on a chair.
 
 Gifted, self-taught programmer (she left school at 12), early entrepreneur (first start-up before she was 15) she grew up with one foot in the world of Silicon Valley and the other in the free Internet.
 
-Born man, she changed sex and name in 2005. Having been "Retired" for two years, now 34, she  devotes herself to political action and is working to create tools for social change.
+Born man, she changed gender and name in 2005. Having been "Retired" for two years, now 34, she devotes herself to political action and is working to create tools for social change.
 
-Meeting with a "civic hacker" as she describes herself.
+The following is a meeting between Rue89 and a "civic hacker" as she describes herself.
 
 
 ## "I drew a computer on paper"
@@ -33,7 +33,7 @@ Audrey Tang fell in programming like others in reading or drawing : with passion
 
 Soon, her parents bought her a real computer. A few months later, she wrote her first program: an educational game for her little brother.
 
-Audrey Tang did not grow in Taiwan. Her father is a PhD candidate in Germany. He studies the Tiananmen student movement, which he found by chance in 1989 and which has had great impact:
+Audrey Tang did not grow solely in Taiwan. Her father is a PhD candidate in Germany. He studies the Tiananmen student movement, which he found by chance in 1989 and which has had great impact:
 
 > "I grew up among activists who struggled a lot, especially with the democratic process."
 
@@ -73,7 +73,7 @@ At the same time, she discovered [The Internet Engineering Task Force](https://w
 
 There is no formal membership, [one becomes a member by participating](https://www.ietf.org/tao.html) in it, everyone is a volunteer and documents published by the organization are extensively discussed online, in the form of [RFC "Request for Comments"](https://fr.wikipedia.org/wiki/Request_for_comments).
 
-The motto of the group is: "We believe in rough consensus and working code"
+The motto of the group is: "We believe in rough consensus and working code. "
 
 Audrey:
 
@@ -85,11 +85,11 @@ The Internet of that time still serves as a model to think the current policy - 
 
 > "These are the values that have fed me for the last twenty years, and nourish my approach to technology. "
 
-So much so that she sees herself as "conservative" ultimately the point of view of the history of the Web:
+So much so that she sees herself as "conservative" ultimately from the point of view of the history of the Web:
 
 > "I am a conservative anarchist. It may seem contradictory: anarchy is often associated with utopia, a dream world set in the future. But I've experienced this "utopia" for over twenty years: it is the anarchy of the Net I want to keep. "
 
-## G0V: open data
+## g0v: open data
 
 After twenty years of "normal life as an entrepreneur from Silicon Valley" ("I created a new start-up and I sold it, and yet another that I sold again ...") she decided to retire. She was 33 years old. When you widen your eyes a little, she said:
 
@@ -99,7 +99,7 @@ Then she laughs like a delighted child.
 
 Today, she has returned to Taiwan. She continues to do consulting for some companies ([including Apple](https://tw.linkedin.com/in/tangaudrey)) and especially works remotely. Most of her time, she goes to much political projects.
 
-Her first important actions begin when the Taiwanese government launched a video on the occasion of a complex economic reform in 2012. The video showed citizens overwhelmed by law (that appears above their heads)
+The first coordinated actions began when the Taiwanese government launched a video on the occasion of a complex economic reform in 2012. The video showed citizens overwhelmed by law (that appears above their heads):
 
 {% youtube RAbD3AGFX6I %}
 
@@ -107,7 +107,7 @@ Audrey recalls:
 
 > "The message was essentially:" It's too complicated for you, but do not worry, trust us. "
 >
-> It was really insulting "
+> It was really insulting. "
 
 {% image fig-50 right http://rue89.nouvelobs.com/sites/news/files/assets/image/2015/09/version_g0v_du_budget_taiwanais_0.png "g0v budget visualization" %}
 
@@ -115,10 +115,9 @@ In response, a group of hackers decided to release government budget data and ma
 
 The name comes from a diversion of the extension of government sites, ".gov". To find the site "open data" corresponding to any site of a ministry, just change the "o" to "O" (zero) in the URL)
 
-
 ## How to motivate lazy people ?
 
-To create visualizations, you have to scan a lot of data. "G0V" appealed to "crowdsourcing" participatory, but they had to find a technical solution for people involved:
+To create visualisations, you have to scan a lot of data. "g0v" appealed to "crowdsourcing", but they had to find a technical solution for people involved:
 
 > "If we had asked people to copy an entire page of numbers in an Excel table, that would have taken maybe four minutes.
 >
@@ -130,11 +129,11 @@ So they cut the huge amount of data in very small tasks that take a few seconds 
 
 > "It takes five seconds and it really feels like you're helping the country! This is both useful, simple, rewarding and fun. This is the key of crowdsourcing: whenever there is a way to measure the progress of the player, people can spend hours without sleep to finish the game! "
 
-The project attracted approximately 9000 people within 24 hours. Today, there are versions "G0V" of all the major sites of Taiwanese ministries: Educational, Labour, Health, etc. All code is open source:
+The project attracted approximately 9000 people within 24 hours. Today, there are versions "g0v" of all the major sites of Taiwanese ministries: Educational, Labour, Health, etc. All code is open source:
 
-> "For we want the government to merge with the project, if it works. And besides, it was incorporated by the city of Taipei, which just announced it would make public the budget data in a format compatible with "G0V". "
+> "For we want the government to merge with the project, if it works. And besides, it was incorporated by the city of Taipei, which just announced it would make public the budget data in a format compatible with "g0v". "
 
-Offline, G0V organises regular hackathons for intellectuals, activists and hackers to meet-up. They are also open to beginners and non-specialists:
+Offline, g0v organises regular hackathons for intellectuals, activists and hackers to meet-up. They are also open to beginners and non-specialists:
 
 > "People want to learn from each other. They do not care a lot of ideology or politics behind, but they really want to learn from each other. "
 
@@ -142,7 +141,7 @@ Offline, G0V organises regular hackathons for intellectuals, activists and hacke
 
 ## The Sunflower Movement
 
-The news would soon give G0V the opportunity to invest more directly in politics.
+The news would soon give g0v the opportunity to invest more directly in politics.
 
 In Spring 2014, Taipei students took to the streets to protest against the ratification by the Parliament of a trade treaty with China, allowing China to invest heavily in several sectors. The vote took place without debate and students denounced both the denial of democracy and the risk of Chinese interference.
 
@@ -166,9 +165,9 @@ She created with a group of hackers [a website]( http://g0v.today/congressoccupi
 
 ## A movement in front of the cameras
 
-The movement was largely filmed. Tang and her team installed a screen on the facade of the Parliament, which retransmited the debates that took place. There were cameras everywhere, to what Tang attributed the general calm of the movement:
+The movement was largely filmed. Tang suggested the field team install a screen on the facade of the Parliament, which retransmited the debates that took place. There were cameras everywhere, to what Tang attributed the general calm of the movement:
 
-> "Police and demonstrators behaved reasonably. They knew that 60,000 people were watching. There were slogans, songs, but it did not get out of control "
+> "Police and demonstrators behaved reasonably. They knew that 60,000 people were watching. There were slogans, songs, but it did not get out of control. "
 
 On March 25, 500,000 people took to the streets, a sunflower in hand. Every 500 meters, screens retransmited the event live:
 
@@ -188,7 +187,7 @@ At the following election in the fall, new political heads emerged. The capital,
 
 Since the beginning of the year, in the wake of occupations and in a context where other activists work to maintain hope of a revolution, Tang strives to create ways to make the voice of the citizens heard in the political space.
 
-So, inspired by an American initiative of Cornell University, a platform of "e-rulemaking" participatory democracy allows individuals concerned to discuss some law-making projects and bills.
+So, inspired by the RegulationRoom project of Cornell University, g0v volunteers built a platform of "e-rulemaking" participatory democracy allows individuals concerned to discuss some law-making projects and bills.
 
 > "We use only for subjects where Internet users are most concerned. "
 
@@ -196,11 +195,11 @@ In these debates (filmed, transmitted, transcribed ...), Tang is moderator ("As 
 
 <iframe class="speakerdeck-iframe" frameborder="0" src="//speakerdeck.com/player/dba245d1d91c4f48ad287707a813fdf0?slide=57" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; margin: 0px; padding: 0px; border-radius: 5px; width: 420px; height: 377px; background: transparent;"></iframe>
 
-To encourage debate on other complex issues related to digital (Uber, Airbnb, Bitcoin), she has also designed a platform for debate:
+To encourage debate on other complex issues related to digital (Uber, Airbnb, Bitcoin), she has also helped desiging a platform for debate:
 
 > "This is a platform to explore issues and find solutions, to say" yes "or" no "to proposals already made. "
 
-The idea of the platform is to allow constructive debate. All design decisions of the platform are  designed to facilitate inclusion in the discussion - which is for example, to make all the discussions easily accessible and contextualized:
+The idea of the platform is to allow constructive debate. All design decisions of the platform aredesigned to facilitate inclusion in the discussion - which is for example, to make all the discussions easily accessible and contextualized:
 
 > "The centralization of power does not come from its concentration in one place, but because the latest arrived are less familiar with the context than those who make the laws. We try to bridge this process: in two hours, anyone interested can understand the whole context of the discussion. "
 
@@ -220,9 +219,9 @@ And finally this position has very intimate consequences. The idea:
 >
 > Censorship, including self-censorship is a malfunction. Refusing censorship is an inherently political and radical position. "
 
-She applies this position in her life. For Audrey was born Autrijus, a boy. In recent years, she transitioned from male to female:
+She applies this position in her life. For Audrey was born Autrijus, a boy. In recent years, she has transgendered:
 
-> "I'm post-genre. I do not want to take sides in the war of the sexes. It's not that I think it is not important, but I think that war will not solve anything. "
+> "I'm post-genre. I do not want to take sides in the war of the sexes. It's not that I think it is not important, but I think that war will not solve anything."
 
 Audrey Tang, in many ways, seems to embody a face of the possible future: peaceful and humane, with tools that do not isolate but bring closer, do not promote consumerism but politics, does not look for controversy but actual dialogue and mutual aid.
 
