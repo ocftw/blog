@@ -8,3 +8,5 @@ tags: ocf
 # Welcome to the Open Culture Blog
 
 Please refer to the [About](/about) page.
+
+Special thanks to [Jesse Vincent](http://fsck.com/) who owned the openculture.org domain since 2000, for transfering the ownership to the Open Culture Foundation.
