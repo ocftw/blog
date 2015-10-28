@@ -1,6 +1,9 @@
+---
 title: 'Audrey Tang, brilliant programmer, "hacks" politics in Taiwan'
 date: 2015-10-12 12:23:29
 tags:
+- taiwan
+- g0v
 ---
 ### At 12, Audrey Tang left school to code; at 15, she created her own start-up. Today, this retired 34 year-old, who describes herself as a "conservative anarchist," creates tools to reinvent democracy.
 
@@ -41,7 +44,7 @@ Little, Audrey traveled a lot : the family moved almost every year, according to
 
 ## A (very) young self-taught entrepreneur
 
-In 1993, they returned to Taiwan. Audrey was 12 years old, it was time for her to enter high-school. At the same time, in Switzerland, Tim Berners-Lee and his team invented the World Wide Web. The young programmer had already dragged on the Internet, but the arrival of the Web suddenly openened up immense horizons. And it is hard to see how it could be explored at school:
+In 1993, they returned to Taiwan. Audrey was 12 years old, it was time for her to enter high-school. At the same time, in Switzerland, Tim Berners-Lee and his team invented the World Wide Web. The young programmer had already dragged on the Internet, but the arrival of the Web suddenly opened up immense horizons. And it is hard to see how it could be explored at school:
 
 > "With the Web, it was suddenly obvious that I was going to learn everything I wanted directly from the researchers themselves. At school it was going to take ten years for it to be taught! The researchers that I contacted were very enthusiastic.
 >
@@ -51,7 +54,7 @@ She said that without affectation, as if it were the simplest thing in the world
 
 Then everything went very fast. She created a start-up with some friends, a search engine for Mandarin lyrics. It worked very well very quickly, and Intel invested in the young company:
 
-> "This was the era of dotcom. The software industry was not highly developed in Taiwan and we received a lot of attention. "
+> "This was the era of dot-com. The software industry was not highly developed in Taiwan and we received a lot of attention. "
 
 ## "I wanted to give back to the Web"
 
